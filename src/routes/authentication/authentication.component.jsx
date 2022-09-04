@@ -7,7 +7,7 @@ export const Authentication = () => {
     
 
   return (
-    <div className='sign-container'>
+    <div className='auth-container'>
       <SignInForm/>
       <SignUpForm/>
     </div>
